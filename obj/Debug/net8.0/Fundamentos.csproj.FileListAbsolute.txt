@@ -1,0 +1,15 @@
+/Users/heanessilva/Heanes/Fundamentos/bin/Debug/net8.0/Fundamentos
+/Users/heanessilva/Heanes/Fundamentos/bin/Debug/net8.0/Fundamentos.deps.json
+/Users/heanessilva/Heanes/Fundamentos/bin/Debug/net8.0/Fundamentos.runtimeconfig.json
+/Users/heanessilva/Heanes/Fundamentos/bin/Debug/net8.0/Fundamentos.dll
+/Users/heanessilva/Heanes/Fundamentos/bin/Debug/net8.0/Fundamentos.pdb
+/Users/heanessilva/Heanes/Fundamentos/obj/Debug/net8.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heanessilva/Heanes/Fundamentos/obj/Debug/net8.0/Fundamentos.AssemblyInfoInputs.cache
+/Users/heanessilva/Heanes/Fundamentos/obj/Debug/net8.0/Fundamentos.AssemblyInfo.cs
+/Users/heanessilva/Heanes/Fundamentos/obj/Debug/net8.0/Fundamentos.csproj.CoreCompileInputs.cache
+/Users/heanessilva/Heanes/Fundamentos/obj/Debug/net8.0/Fundamentos.sourcelink.json
+/Users/heanessilva/Heanes/Fundamentos/obj/Debug/net8.0/Fundamentos.dll
+/Users/heanessilva/Heanes/Fundamentos/obj/Debug/net8.0/refint/Fundamentos.dll
+/Users/heanessilva/Heanes/Fundamentos/obj/Debug/net8.0/Fundamentos.pdb
+/Users/heanessilva/Heanes/Fundamentos/obj/Debug/net8.0/Fundamentos.genruntimeconfig.cache
+/Users/heanessilva/Heanes/Fundamentos/obj/Debug/net8.0/ref/Fundamentos.dll
